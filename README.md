@@ -1,0 +1,1 @@
+# playstore-autoscale-docker-image
